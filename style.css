@@ -1,0 +1,51 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    margin-bottom: 100px;
+}
+.buy{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 9px;
+    padding: 9px 22px;
+}
+
+.card{
+    box-shadow: lightgray;
+}
+.blue-bg{
+    background-color: yellowgreen;
+    width: 29px 10px;
+    border-radius: 10px;
+}
+.blue-bg :hover{
+    color: whitesmoke;
+}
+
+.carousel-inner{
+    padding: 20px 40px;
+}
+ span.cate{
+    border:  1px orange solid;
+    width: 9%;
+    height: 7px;
+    border-radius: 15px;
+    display : inline-block;
+   background-color: orange;
+}
+.bag h3{
+    text-align: center;
+
+}
+.cate-bg{
+    box-shadow: 5px 5px 10px rgb(250, 186, 12);
+    padding: 20px;
+    border-radius: 0 25px;
+}
+.cate-go{
+   margin: 25px 0;
+}
+.order img{
+    width: 100%;
+}
